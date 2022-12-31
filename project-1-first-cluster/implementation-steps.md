@@ -6,4 +6,4 @@ To give an overview of this project, we are going to focus on kubernetes cluster
 
 ## We will be deploying the below Architecture:
 
-![Cluster Architecture](https://github.com/CloudStrategyOfficial/document-aws-eks-k8s/blob/main/images/picture-1-1.png)
+![Cluster Architecture](https://github.com/CloudStrategyOfficial/document-aws-eks-k8s/blob/main/images/picture-1-1.jpeg)
