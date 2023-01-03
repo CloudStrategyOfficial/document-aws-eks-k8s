@@ -6,4 +6,4 @@ To give an overview of this project, we are going to focus on kubernetes cluster
 
 ## We will be deploying the below Architecture:
 
-![Cluster Architecture](![picture-1-1](https://user-images.githubusercontent.com/121017040/210310527-216c6948-4b5b-4db0-8503-5e333a266b5b.png))
+![picture-1-1](https://user-images.githubusercontent.com/121017040/210310527-216c6948-4b5b-4db0-8503-5e333a266b5b.png)
