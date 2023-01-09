@@ -84,7 +84,7 @@ AmazonEKS_CNI_Policy
 
 ### Step 7: Install Kubectl Tool
 
-[![Click me to install Kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+[Click me to install Kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
 
 ### Step 8: Add the K8s cluster context in ~/.kube/config file
 
