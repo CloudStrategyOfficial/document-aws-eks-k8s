@@ -4,7 +4,6 @@ In this lecture, we are going to deploy the below Architecture
 ![lecture_6_architecture](https://user-images.githubusercontent.com/121017040/211267425-de8123c6-a955-444f-b5ca-b6d3985a63e4.png)
 
 ## Youtube Lecture Link [Language : English-Hindi Mix]
-![AWS EKS Cluster Create](https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png)
 
 [<img src="https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png" width="100%">](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
 
