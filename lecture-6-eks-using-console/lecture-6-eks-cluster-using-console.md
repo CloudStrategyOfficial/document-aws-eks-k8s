@@ -5,8 +5,7 @@ In this lecture, we are going to deploy the below Architecture
 
 ## Youtube Lecture Link [Language : English-Hindi Mix]
 
-[<img src="https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png" width="100%">](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
-[EKS](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
+[<img src="https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png" width="50%">](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
 
 ### Note: Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster
 
