@@ -145,5 +145,5 @@ Once you perform all the above steps, Please make sure you cleanup all the resou
 ```
 ## 🔗 Documentation
 
-[![AWS EKS Official Documentation](https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html)
-[![Kubectl installation Guide](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
+[AWS EKS Official Documentation](https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html)
+[Kubectl installation Guide](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
