@@ -1,6 +1,7 @@
 # Create EKS K8s Cluster using AWS Management Console
 
 In this lecture, we are going to deploy the below Architecture
+![lecture_6_architecture](https://user-images.githubusercontent.com/121017040/211267425-de8123c6-a955-444f-b5ca-b6d3985a63e4.png)
 
 ## Youtube Lecture Link [Language : English-Hindi Mix]
 
