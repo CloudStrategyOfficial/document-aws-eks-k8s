@@ -5,6 +5,8 @@ In this lecture, we are going to deploy the below Architecture
 
 ## Youtube Lecture Link [Language : English-Hindi Mix]
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
+
 ### Note: Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster
 
 In the above architecture, we are deploying the below resources:
