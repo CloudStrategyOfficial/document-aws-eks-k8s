@@ -79,6 +79,7 @@ AmazonEKS_CNI_Policy
 ### Step 5: Create VPC for EKS Cluster
 ```javascript
 - Create the VPC with 3 Availability Zones, 3 Public Subnets, 3 Private Subnets, 3 NAT Gateways (You can keep one also, as its Chargeable)
+- Create two security groups - "eks-cluster-sg" & "eks-workder-node-sg"
 ```
 ### Step 6: Create EKS Cluster
 ```javascript
