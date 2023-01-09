@@ -10,7 +10,7 @@ In this lecture, we are going to deploy the below Architecture
 
 Please click on the above thumblain to jump to the youtube video
 
-### Note: Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster
+### Note: `Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster`
 
 In the above architecture, we are deploying the below resources:
 
