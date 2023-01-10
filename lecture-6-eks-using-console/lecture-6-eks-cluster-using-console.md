@@ -12,7 +12,6 @@ Please click on the above thumblain to jump to the youtube video
 
 #### YouTube Video Content:
 
-```bash
 [1. Lecture start](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=0s)
 [2. Kubernetes Cluster Platform Architecture](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=17s)
 [3. GitHub Documentation Link](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=97s)
@@ -30,7 +29,6 @@ Please click on the above thumblain to jump to the youtube video
 [15. kubectl command use](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=1104s)
 [16. cluster delete](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=1188s)
 
-```
 
 ### Note: `Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster`
 
