@@ -13,20 +13,35 @@ Please click on the above thumblain to jump to the youtube video
 #### YouTube Video Content:
 
 [1. Lecture start](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=0s)
+
 [2. Kubernetes Cluster Platform Architecture](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=17s)
+
 [3. GitHub Documentation Link](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=97s)
+
 [4. Create VPC for Bastion host](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=151s)
+
 [5. Bastion host creation](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=235s)
+
 [6. AWS Credentials configuration](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=290s)
+
 [7. Create IAM Role for Cluster & Worker Nodes](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=438s)
+
 [8. Create VPC for EKS Cluster](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=580s)
+
 [9. Create Security Groups for both Control Plane & Worker Nodes](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=623s)
+
 [10. Create EKS Cluster](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=685s)
+
 [11. Install kubectl Tool](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=768s)
+
 [12. Add Cluster details in ~/.kube/config file](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=878s)
+
 [13. Create AWS Managed Worker Nodes](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=936s)
+
 [14. Behind the scene of cluster creation](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=1029s)
+
 [15. kubectl command use](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=1104s)
+
 [16. cluster delete](https://www.youtube.com/watch?v=hWzJTQ5UhwY&t=1188s)
 
 
