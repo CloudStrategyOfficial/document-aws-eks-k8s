@@ -10,6 +10,27 @@ In this lecture, we are going to deploy the below Architecture
 
 Please click on the above thumblain to jump to the youtube video
 
+YouTube Video Content:
+
+Content:
+
+00:00. Lecture start
+00:17. Kubernetes Cluster Platform Architecture
+01:37. GitHub Documentation Link
+02:31. Create VPC for Bastion host
+03:55. Bastion host creation
+04:50. AWS Credentials configuration
+07:18. Create IAM Role for Cluster & Worker Nodes
+09:40. Create VPC for EKS Cluster
+10:23. Create Security Groups for both Control Plane & Worker Nodes
+11:25. Create EKS Cluster
+12:48. Install kubectl Tool
+14:38. Add Cluster details in ~/.kube/config file
+15:36. Create AWS Managed Worker Nodes 
+17:09. Behind the scene of cluster creation
+18:24. kubectl command use
+19:48. cluster delete
+
 ### Note: `Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster`
 
 In the above architecture, we are deploying the below resources:
