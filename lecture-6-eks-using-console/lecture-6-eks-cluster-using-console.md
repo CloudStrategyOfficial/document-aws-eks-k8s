@@ -10,10 +10,9 @@ In this lecture, we are going to deploy the below Architecture
 
 Please click on the above thumblain to jump to the youtube video
 
-YouTube Video Content:
+#### YouTube Video Content:
 
-Content:
-
+```bash
 00:00. Lecture start
 00:17. Kubernetes Cluster Platform Architecture
 01:37. GitHub Documentation Link
@@ -30,6 +29,8 @@ Content:
 17:09. Behind the scene of cluster creation
 18:24. kubectl command use
 19:48. cluster delete
+
+```
 
 ### Note: `Please make sure you are using the same credentials for both one to create your EKS cluster and another to communicate with your Kubernetes cluster`
 
