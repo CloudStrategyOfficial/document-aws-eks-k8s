@@ -6,7 +6,7 @@ In this lecture, we are going to deploy the below Architecture
 
 ## Youtube Lecture Link [Language : English-Hindi Mix]
 
-[<img src="https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png" width="50%">](https://youtu.be/06_oEmEDnZg "Kubernetes Series - Lecture 6")
+[<img src="https://user-images.githubusercontent.com/121017040/211271491-babf1b23-2f75-4709-b005-3d8ca652985e.png" width="50%">](https://youtu.be/hWzJTQ5UhwY "Kubernetes Series - Lecture 6")
 
 Please click on the above thumblain to jump to the youtube video
 
